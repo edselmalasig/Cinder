@@ -18,6 +18,8 @@
 #  define ZLIB_INTERNAL
 #endif
 
+#include <unistd.h>
+
 #include <stdio.h>
 #include "zlib.h"
 #ifdef STDC
