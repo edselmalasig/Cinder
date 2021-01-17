@@ -697,7 +697,7 @@ void VboMesh::unmapVboImpl( const VboRef &vbo )
 		}
 	}
 	else
-		CI_LOG_E( "Attempto unmap VboMesh::MappedAttrib that was never mapped." );
+		CI_LOG_E( "Attempt to unmap VboMesh::MappedAttrib that was never mapped." );
 }
 
 #endif // defined(CINDER_GL_ES_3) || (! defined( CINDER_GL_ANGLE ))
