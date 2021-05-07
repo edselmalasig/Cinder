@@ -4,871 +4,871 @@
 CMakeFiles/cinder.dir/src/freetype/autofit/autofit.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afangles.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afblue.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afblue.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afcjk.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afcjk.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afcover.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afdummy.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afdummy.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/aferrors.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afglobal.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afglobal.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afhints.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afhints.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afindic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afindic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/aflatin.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/aflatin.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/aflatin2.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/aflatin2.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afloader.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afloader.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afmodule.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afmodule.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afpic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afpic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afranges.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afranges.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afscript.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afshaper.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afshaper.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afstyles.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/aftypes.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afwarp.c
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afwarp.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/afwrtsys.h
- /Users/edselmalasig/dev/Cinder/src/freetype/autofit/autofit.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afangles.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afblue.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afblue.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afcjk.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afcjk.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afcover.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afdummy.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afdummy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/aferrors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afglobal.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afglobal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afhints.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afhints.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afindic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afindic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/aflatin.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/aflatin.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/aflatin2.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/aflatin2.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afloader.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afloader.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afmodule.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afmodule.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afpic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afpic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afranges.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afranges.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afscript.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afshaper.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afshaper.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afstyles.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/aftypes.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afwarp.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afwarp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/afwrtsys.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/autofit/autofit.c
 CMakeFiles/cinder.dir/src/freetype/base/ftbase.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/basepic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/basepic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftadvanc.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftbase.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftbase.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftcalc.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftdbgmem.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftfntfmt.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftgloadr.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/fthash.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftlcdfil.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftmac.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftobjs.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftoutln.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftpic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftpsprop.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftrfork.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftsnames.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftstream.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/fttrigon.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftutil.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/md5.c
- /Users/edselmalasig/dev/Cinder/src/freetype/base/md5.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/basepic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/basepic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftadvanc.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftbase.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftbase.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftcalc.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftdbgmem.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftfntfmt.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftgloadr.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/fthash.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftlcdfil.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftmac.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftobjs.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftoutln.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftpic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftpsprop.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftrfork.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftsnames.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftstream.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/fttrigon.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftutil.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/md5.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/md5.h
 CMakeFiles/cinder.dir/src/freetype/base/ftbbox.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftbbox.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftbbox.c
 CMakeFiles/cinder.dir/src/freetype/base/ftbdf.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftbdf.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftbdf.c
 CMakeFiles/cinder.dir/src/freetype/base/ftbitmap.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftbitmap.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftbitmap.c
 CMakeFiles/cinder.dir/src/freetype/base/ftcid.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftcid.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftcid.c
 CMakeFiles/cinder.dir/src/freetype/base/ftdebug.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftdebug.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftdebug.c
 CMakeFiles/cinder.dir/src/freetype/base/ftfstype.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftfstype.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftfstype.c
 CMakeFiles/cinder.dir/src/freetype/base/ftgasp.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftgasp.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftgasp.c
 CMakeFiles/cinder.dir/src/freetype/base/ftglyph.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/basepic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftglyph.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/basepic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftglyph.c
 CMakeFiles/cinder.dir/src/freetype/base/ftgxval.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftgxval.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftgxval.c
 CMakeFiles/cinder.dir/src/freetype/base/ftinit.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/basepic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftinit.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/basepic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftinit.c
 CMakeFiles/cinder.dir/src/freetype/base/ftmm.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftmm.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftmm.c
 CMakeFiles/cinder.dir/src/freetype/base/ftotval.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftotval.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftotval.c
 CMakeFiles/cinder.dir/src/freetype/base/ftpatent.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftpatent.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftpatent.c
 CMakeFiles/cinder.dir/src/freetype/base/ftpfr.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftpfr.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftpfr.c
 CMakeFiles/cinder.dir/src/freetype/base/ftstroke.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/basepic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftstroke.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/basepic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftstroke.c
 CMakeFiles/cinder.dir/src/freetype/base/ftsynth.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftsynth.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftsynth.c
 CMakeFiles/cinder.dir/src/freetype/base/ftsystem.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftsystem.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftsystem.c
 CMakeFiles/cinder.dir/src/freetype/base/fttype1.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/fttype1.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/fttype1.c
 CMakeFiles/cinder.dir/src/freetype/base/ftwinfnt.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/base/ftwinfnt.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/base/ftwinfnt.c
 CMakeFiles/cinder.dir/src/freetype/bdf/bdf.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/bdf/bdf.c
- /Users/edselmalasig/dev/Cinder/src/freetype/bdf/bdf.h
- /Users/edselmalasig/dev/Cinder/src/freetype/bdf/bdfdrivr.c
- /Users/edselmalasig/dev/Cinder/src/freetype/bdf/bdfdrivr.h
- /Users/edselmalasig/dev/Cinder/src/freetype/bdf/bdferror.h
- /Users/edselmalasig/dev/Cinder/src/freetype/bdf/bdflib.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/bdf/bdf.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/bdf/bdf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/bdf/bdfdrivr.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/bdf/bdfdrivr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/bdf/bdferror.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/bdf/bdflib.c
 CMakeFiles/cinder.dir/src/freetype/bdf/bdflib.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/bdf/bdf.h
- /Users/edselmalasig/dev/Cinder/src/freetype/bdf/bdferror.h
- /Users/edselmalasig/dev/Cinder/src/freetype/bdf/bdflib.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/bdf/bdf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/bdf/bdferror.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/bdf/bdflib.c
 CMakeFiles/cinder.dir/src/freetype/bzip2/ftbzip2.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/bzip2/ftbzip2.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/bzip2/ftbzip2.c
 CMakeFiles/cinder.dir/src/freetype/cache/ftcache.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcache.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcbasic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftccache.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftccache.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftccback.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftccmap.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcerror.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcglyph.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcglyph.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcimage.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcimage.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcmanag.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcmanag.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcmru.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcmru.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcsbits.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cache/ftcsbits.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcache.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcbasic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftccache.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftccache.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftccback.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftccmap.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcerror.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcglyph.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcglyph.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcimage.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcimage.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcmanag.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcmanag.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcmru.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcmru.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcsbits.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cache/ftcsbits.h
 CMakeFiles/cinder.dir/src/freetype/cff/cff.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cff.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffcmap.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffcmap.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffdrivr.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffdrivr.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cfferrs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffgload.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffgload.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffload.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffload.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffobjs.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffobjs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffparse.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffparse.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffpic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cffpic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cff/cfftoken.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cff.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffcmap.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffcmap.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffdrivr.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffdrivr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cfferrs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffgload.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffgload.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffload.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffload.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffobjs.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffobjs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffparse.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffparse.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffpic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cffpic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cff/cfftoken.h
 CMakeFiles/cinder.dir/src/freetype/cid/type1cid.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/ciderrs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidgload.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidgload.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidload.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidload.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidobjs.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidobjs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidparse.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidparse.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidriver.c
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidriver.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/cidtoken.h
- /Users/edselmalasig/dev/Cinder/src/freetype/cid/type1cid.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/ciderrs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidgload.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidgload.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidload.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidload.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidobjs.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidobjs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidparse.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidparse.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidriver.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidriver.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/cidtoken.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/cid/type1cid.c
 CMakeFiles/cinder.dir/src/freetype/gxvalid/gxvalid.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvalid.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvalid.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvbsln.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvcommn.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvcommn.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxverror.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvfeat.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvfeat.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvjust.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvkern.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvlcar.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmod.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmod.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmort.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmort.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmort0.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmort1.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmort2.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmort4.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmort5.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmorx.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmorx.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmorx0.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmorx1.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmorx2.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmorx4.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvmorx5.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvopbd.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvprop.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gxvalid/gxvtrak.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvalid.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvalid.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvbsln.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvcommn.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvcommn.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxverror.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvfeat.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvfeat.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvjust.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvkern.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvlcar.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmod.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmod.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmort.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmort.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmort0.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmort1.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmort2.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmort4.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmort5.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmorx.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmorx.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmorx0.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmorx1.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmorx2.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmorx4.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvmorx5.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvopbd.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvprop.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gxvalid/gxvtrak.c
 CMakeFiles/cinder.dir/src/freetype/gzip/ftgzip.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/adler32.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/ftgzip.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/infblock.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/infblock.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/infcodes.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/infcodes.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/inffixed.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/inflate.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/inftrees.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/inftrees.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/infutil.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/infutil.h
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/zutil.c
- /Users/edselmalasig/dev/Cinder/src/freetype/gzip/zutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/adler32.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/ftgzip.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/infblock.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/infblock.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/infcodes.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/infcodes.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/inffixed.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/inflate.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/inftrees.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/inftrees.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/infutil.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/infutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/zutil.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/gzip/zutil.h
 CMakeFiles/cinder.dir/src/freetype/lzw/ftlzw.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/lzw/ftlzw.c
- /Users/edselmalasig/dev/Cinder/src/freetype/lzw/ftzopen.c
- /Users/edselmalasig/dev/Cinder/src/freetype/lzw/ftzopen.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/lzw/ftlzw.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/lzw/ftzopen.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/lzw/ftzopen.h
 CMakeFiles/cinder.dir/src/freetype/otvalid/otvalid.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvalid.c
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvalid.h
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvbase.c
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvcommn.c
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvcommn.h
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otverror.h
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvgdef.c
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvgpos.c
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvgpos.h
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvgsub.c
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvjstf.c
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvmath.c
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvmod.c
- /Users/edselmalasig/dev/Cinder/src/freetype/otvalid/otvmod.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvalid.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvalid.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvbase.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvcommn.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvcommn.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otverror.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvgdef.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvgpos.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvgpos.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvgsub.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvjstf.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvmath.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvmod.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/otvalid/otvmod.h
 CMakeFiles/cinder.dir/src/freetype/pcf/pcf.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pcf/pcf.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pcf/pcf.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pcf/pcfdrivr.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pcf/pcfdrivr.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pcf/pcferror.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pcf/pcfread.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pcf/pcfread.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pcf/pcfutil.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pcf/pcfutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pcf/pcf.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pcf/pcf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pcf/pcfdrivr.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pcf/pcfdrivr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pcf/pcferror.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pcf/pcfread.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pcf/pcfread.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pcf/pcfutil.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pcf/pcfutil.h
 CMakeFiles/cinder.dir/src/freetype/pfr/pfr.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfr.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrcmap.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrcmap.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrdrivr.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrdrivr.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrerror.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrgload.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrgload.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrload.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrload.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrobjs.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrobjs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrsbit.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrsbit.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pfr/pfrtypes.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfr.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrcmap.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrcmap.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrdrivr.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrdrivr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrerror.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrgload.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrgload.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrload.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrload.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrobjs.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrobjs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrsbit.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrsbit.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pfr/pfrtypes.h
 CMakeFiles/cinder.dir/src/freetype/psaux/psaux.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/afmparse.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/afmparse.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/cffdecode.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/cffdecode.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psarrst.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psarrst.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psaux.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psauxerr.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psauxmod.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psauxmod.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psblues.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psblues.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psconv.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psconv.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/pserror.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/pserror.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psfixed.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psfont.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psfont.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psft.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psft.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psglue.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/pshints.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/pshints.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psintrp.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psintrp.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psobjs.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psobjs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psread.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psread.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psstack.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/psstack.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/pstypes.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/t1cmap.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/t1cmap.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/t1decode.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psaux/t1decode.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/afmparse.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/afmparse.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/cffdecode.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/cffdecode.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psarrst.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psarrst.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psaux.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psauxerr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psauxmod.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psauxmod.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psblues.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psblues.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psconv.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psconv.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/pserror.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/pserror.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psfixed.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psfont.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psfont.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psft.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psglue.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/pshints.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/pshints.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psintrp.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psintrp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psobjs.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psobjs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psread.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psread.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psstack.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/psstack.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/pstypes.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/t1cmap.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/t1cmap.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/t1decode.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psaux/t1decode.h
 CMakeFiles/cinder.dir/src/freetype/pshinter/pshinter.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshalgo.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshalgo.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshglob.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshglob.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshinter.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshmod.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshnterr.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshpic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshpic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshrec.c
- /Users/edselmalasig/dev/Cinder/src/freetype/pshinter/pshrec.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshalgo.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshalgo.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshglob.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshglob.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshinter.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshmod.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshnterr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshpic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshpic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshrec.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/pshinter/pshrec.h
 CMakeFiles/cinder.dir/src/freetype/psnames/psnames.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psnames/psmodule.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psnames/psmodule.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psnames/psnamerr.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psnames/psnames.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psnames/pspic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/psnames/pspic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/psnames/pstables.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psnames/psmodule.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psnames/psmodule.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psnames/psnamerr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psnames/psnames.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psnames/pspic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psnames/pspic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/psnames/pstables.h
 CMakeFiles/cinder.dir/src/freetype/raster/raster.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
  ../include/freetype/ftimage.h
- /Users/edselmalasig/dev/Cinder/src/freetype/raster/ftmisc.h
- /Users/edselmalasig/dev/Cinder/src/freetype/raster/ftraster.c
- /Users/edselmalasig/dev/Cinder/src/freetype/raster/ftraster.h
- /Users/edselmalasig/dev/Cinder/src/freetype/raster/ftrend1.c
- /Users/edselmalasig/dev/Cinder/src/freetype/raster/ftrend1.h
- /Users/edselmalasig/dev/Cinder/src/freetype/raster/raster.c
- /Users/edselmalasig/dev/Cinder/src/freetype/raster/rasterrs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/raster/rastpic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/raster/rastpic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/raster/ftmisc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/raster/ftraster.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/raster/ftraster.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/raster/ftrend1.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/raster/ftrend1.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/raster/raster.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/raster/rasterrs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/raster/rastpic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/raster/rastpic.h
 CMakeFiles/cinder.dir/src/freetype/sfnt/sfnt.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/pngshim.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/pngshim.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/sfdriver.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/sfdriver.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/sferrors.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/sfnt.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/sfntpic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/sfntpic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/sfobjs.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/sfobjs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttbdf.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttbdf.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttcmap.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttcmap.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttcmapc.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttkern.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttkern.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttload.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttload.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttmtx.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttmtx.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttpost.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttpost.h
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttsbit.c
- /Users/edselmalasig/dev/Cinder/src/freetype/sfnt/ttsbit.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/pngshim.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/pngshim.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/sfdriver.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/sfdriver.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/sferrors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/sfnt.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/sfntpic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/sfntpic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/sfobjs.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/sfobjs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttbdf.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttbdf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttcmap.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttcmap.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttcmapc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttkern.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttkern.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttload.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttload.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttmtx.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttmtx.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttpost.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttpost.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttsbit.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/sfnt/ttsbit.h
 CMakeFiles/cinder.dir/src/freetype/smooth/smooth.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
  ../include/freetype/ftimage.h
- /Users/edselmalasig/dev/Cinder/src/freetype/smooth/ftgrays.c
- /Users/edselmalasig/dev/Cinder/src/freetype/smooth/ftgrays.h
- /Users/edselmalasig/dev/Cinder/src/freetype/smooth/ftsmerrs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/smooth/ftsmooth.c
- /Users/edselmalasig/dev/Cinder/src/freetype/smooth/ftsmooth.h
- /Users/edselmalasig/dev/Cinder/src/freetype/smooth/ftspic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/smooth/ftspic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/smooth/smooth.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/smooth/ftgrays.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/smooth/ftgrays.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/smooth/ftsmerrs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/smooth/ftsmooth.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/smooth/ftsmooth.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/smooth/ftspic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/smooth/ftspic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/smooth/smooth.c
 CMakeFiles/cinder.dir/src/freetype/truetype/truetype.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/truetype.c
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttdriver.c
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttdriver.h
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/tterrors.h
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttgload.c
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttgload.h
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttgxvar.c
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttgxvar.h
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttinterp.c
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttinterp.h
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttobjs.c
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttobjs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttpic.c
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttpic.h
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttpload.c
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttpload.h
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttsubpix.c
- /Users/edselmalasig/dev/Cinder/src/freetype/truetype/ttsubpix.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/truetype.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttdriver.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttdriver.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/tterrors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttgload.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttgload.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttgxvar.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttgxvar.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttinterp.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttinterp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttobjs.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttobjs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttpic.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttpic.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttpload.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttpload.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttsubpix.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/truetype/ttsubpix.h
 CMakeFiles/cinder.dir/src/freetype/type1/type1.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1afm.c
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1afm.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1driver.c
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1driver.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1errors.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1gload.c
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1gload.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1load.c
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1load.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1objs.c
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1objs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1parse.c
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1parse.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/t1tokens.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type1/type1.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1afm.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1afm.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1driver.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1driver.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1errors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1gload.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1gload.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1load.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1load.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1objs.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1objs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1parse.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1parse.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/t1tokens.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type1/type1.c
 CMakeFiles/cinder.dir/src/freetype/type42/type42.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type42/t42drivr.c
- /Users/edselmalasig/dev/Cinder/src/freetype/type42/t42drivr.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type42/t42error.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type42/t42objs.c
- /Users/edselmalasig/dev/Cinder/src/freetype/type42/t42objs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type42/t42parse.c
- /Users/edselmalasig/dev/Cinder/src/freetype/type42/t42parse.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type42/t42types.h
- /Users/edselmalasig/dev/Cinder/src/freetype/type42/type42.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type42/t42drivr.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type42/t42drivr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type42/t42error.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type42/t42objs.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type42/t42objs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type42/t42parse.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type42/t42parse.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type42/t42types.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/type42/type42.c
 CMakeFiles/cinder.dir/src/freetype/winfonts/winfnt.c.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
- /Users/edselmalasig/dev/Cinder/src/freetype/winfonts/fnterrs.h
- /Users/edselmalasig/dev/Cinder/src/freetype/winfonts/winfnt.c
- /Users/edselmalasig/dev/Cinder/src/freetype/winfonts/winfnt.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/winfonts/fnterrs.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/winfonts/winfnt.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/freetype/winfonts/winfnt.h
 CMakeFiles/cinder.dir/src/glad/glad.c.o
  ../include/KHR/khrplatform.h
  ../include/glad/glad.h
- /Users/edselmalasig/dev/Cinder/src/glad/glad.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/glad/glad.c
 CMakeFiles/cinder.dir/src/libtess2/bucketalloc.c.o
- /Users/edselmalasig/dev/Cinder/src/libtess2/bucketalloc.c
- /Users/edselmalasig/dev/Cinder/src/libtess2/tesselator.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/bucketalloc.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tesselator.h
 CMakeFiles/cinder.dir/src/libtess2/dict.c.o
- /Users/edselmalasig/dev/Cinder/src/libtess2/bucketalloc.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/dict.c
- /Users/edselmalasig/dev/Cinder/src/libtess2/dict.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/tesselator.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/bucketalloc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/dict.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/dict.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tesselator.h
 CMakeFiles/cinder.dir/src/libtess2/geom.c.o
- /Users/edselmalasig/dev/Cinder/src/libtess2/geom.c
- /Users/edselmalasig/dev/Cinder/src/libtess2/geom.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/mesh.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/tesselator.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/geom.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/geom.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/mesh.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tesselator.h
 CMakeFiles/cinder.dir/src/libtess2/mesh.c.o
- /Users/edselmalasig/dev/Cinder/src/libtess2/bucketalloc.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/geom.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/mesh.c
- /Users/edselmalasig/dev/Cinder/src/libtess2/mesh.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/tesselator.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/bucketalloc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/geom.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/mesh.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/mesh.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tesselator.h
 CMakeFiles/cinder.dir/src/libtess2/priorityq.c.o
- /Users/edselmalasig/dev/Cinder/src/libtess2/geom.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/mesh.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/priorityq.c
- /Users/edselmalasig/dev/Cinder/src/libtess2/priorityq.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/tesselator.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/geom.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/mesh.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/priorityq.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/priorityq.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tesselator.h
 CMakeFiles/cinder.dir/src/libtess2/sweep.c.o
- /Users/edselmalasig/dev/Cinder/src/libtess2/bucketalloc.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/dict.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/geom.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/mesh.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/priorityq.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/sweep.c
- /Users/edselmalasig/dev/Cinder/src/libtess2/sweep.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/tess.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/tesselator.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/bucketalloc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/dict.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/geom.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/mesh.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/priorityq.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/sweep.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/sweep.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tess.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tesselator.h
 CMakeFiles/cinder.dir/src/libtess2/tess.c.o
- /Users/edselmalasig/dev/Cinder/src/libtess2/bucketalloc.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/dict.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/geom.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/mesh.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/priorityq.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/sweep.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/tess.c
- /Users/edselmalasig/dev/Cinder/src/libtess2/tess.h
- /Users/edselmalasig/dev/Cinder/src/libtess2/tesselator.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/bucketalloc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/dict.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/geom.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/mesh.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/priorityq.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/sweep.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tess.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tess.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tesselator.h
 CMakeFiles/cinder.dir/src/linebreak/linebreak.c.o
- /Users/edselmalasig/dev/Cinder/src/linebreak/linebreak.c
- /Users/edselmalasig/dev/Cinder/src/linebreak/linebreak.h
- /Users/edselmalasig/dev/Cinder/src/linebreak/linebreakdef.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/linebreak/linebreak.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/linebreak/linebreak.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/linebreak/linebreakdef.h
 CMakeFiles/cinder.dir/src/linebreak/linebreakdata.c.o
- /Users/edselmalasig/dev/Cinder/src/linebreak/linebreak.h
- /Users/edselmalasig/dev/Cinder/src/linebreak/linebreakdata.c
- /Users/edselmalasig/dev/Cinder/src/linebreak/linebreakdef.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/linebreak/linebreak.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/linebreak/linebreakdata.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/linebreak/linebreakdef.h
 CMakeFiles/cinder.dir/src/linebreak/linebreakdef.c.o
- /Users/edselmalasig/dev/Cinder/src/linebreak/linebreak.h
- /Users/edselmalasig/dev/Cinder/src/linebreak/linebreakdef.c
- /Users/edselmalasig/dev/Cinder/src/linebreak/linebreakdef.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/linebreak/linebreak.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/linebreak/linebreakdef.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/linebreak/linebreakdef.h
 CMakeFiles/cinder.dir/src/oggvorbis/ogg/bitwise.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/ogg/bitwise.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/ogg/bitwise.c
 CMakeFiles/cinder.dir/src/oggvorbis/ogg/framing.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/ogg/framing.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/ogg/framing.c
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/analysis.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/analysis.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/registry.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/scales.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/analysis.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/registry.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/scales.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/bitrate.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/block.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/block.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lpc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/registry.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/window.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/block.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lpc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/registry.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/window.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/codebook.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/scales.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/scales.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/envelope.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/scales.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/scales.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/floor0.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/floor0.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lpc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lsp.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/registry.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/scales.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/floor0.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lpc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lsp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/registry.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/scales.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/floor1.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/floor1.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/registry.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/scales.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/floor1.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/registry.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/scales.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/info.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/info.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/registry.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/window.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/info.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/registry.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/window.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/lookup.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lookup.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lookup.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lookup_data.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lookup.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lookup.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lookup_data.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/lpc.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lpc.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lpc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/scales.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lpc.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lpc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/scales.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/lsp.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lookup.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lookup.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lookup_data.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lsp.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lsp.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/scales.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lookup.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lookup.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lookup_data.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lsp.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lsp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/scales.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/mapping0.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lpc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lsp.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mapping0.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/registry.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/scales.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/window.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lpc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lsp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mapping0.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/registry.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/scales.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/window.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/mdct.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/psy.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/lpc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/masking.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/scales.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/lpc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/masking.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/scales.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/registry.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/registry.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/registry.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/registry.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/registry.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/res0.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/registry.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/res0.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/registry.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/res0.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/sharedbook.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/scales.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/sharedbook.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/scales.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/sharedbook.c
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/smallft.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/synthesis.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/registry.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/synthesis.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/registry.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/synthesis.c
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/vorbisenc.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
@@ -884,140 +884,140 @@ CMakeFiles/cinder.dir/src/oggvorbis/vorbis/vorbisenc.c.o
  ../src/oggvorbis/vorbis/modes/residue_44.h
  ../src/oggvorbis/vorbis/modes/residue_44p51.h
  ../src/oggvorbis/vorbis/modes/residue_44u.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/backends.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/bitrate.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codebook.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/codec_internal.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/envelope.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/highlevel.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/mdct.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/psych_11.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/psych_16.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/psych_8.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/residue_16.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/residue_8.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/setup_11.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/setup_16.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/setup_22.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/setup_32.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/setup_44.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/setup_44p51.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/setup_44u.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/setup_8.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/modes/setup_X.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/psy.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/smallft.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/vorbisenc.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/backends.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/bitrate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codebook.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/codec_internal.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/envelope.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/highlevel.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/mdct.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/psych_11.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/psych_16.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/psych_8.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/residue_16.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/residue_8.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/setup_11.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/setup_16.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/setup_22.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/setup_32.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/setup_44.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/setup_44p51.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/setup_44u.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/setup_8.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/modes/setup_X.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/psy.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/smallft.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/vorbisenc.c
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/vorbisfile.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
  ../include/oggvorbis/vorbis/vorbisfile.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/vorbisfile.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/vorbisfile.c
 CMakeFiles/cinder.dir/src/oggvorbis/vorbis/window.c.o
  ../include/oggvorbis/ogg/config_types.h
  ../include/oggvorbis/ogg/ogg.h
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/misc.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/os.h
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/window.c
- /Users/edselmalasig/dev/Cinder/src/oggvorbis/vorbis/window.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/misc.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/os.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/window.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/oggvorbis/vorbis/window.h
 CMakeFiles/cinder.dir/src/zlib/adler32.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/adler32.c
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/adler32.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zutil.h
 CMakeFiles/cinder.dir/src/zlib/compress.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/compress.c
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/compress.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
 CMakeFiles/cinder.dir/src/zlib/crc32.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/crc32.c
- /Users/edselmalasig/dev/Cinder/src/zlib/crc32.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/crc32.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/crc32.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zutil.h
 CMakeFiles/cinder.dir/src/zlib/deflate.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/deflate.c
- /Users/edselmalasig/dev/Cinder/src/zlib/deflate.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/deflate.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/deflate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zutil.h
 CMakeFiles/cinder.dir/src/zlib/gzclose.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/gzclose.c
- /Users/edselmalasig/dev/Cinder/src/zlib/gzguts.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/gzclose.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/gzguts.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
 CMakeFiles/cinder.dir/src/zlib/gzlib.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/gzguts.h
- /Users/edselmalasig/dev/Cinder/src/zlib/gzlib.c
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/gzguts.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/gzlib.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
 CMakeFiles/cinder.dir/src/zlib/gzread.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/gzguts.h
- /Users/edselmalasig/dev/Cinder/src/zlib/gzread.c
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/gzguts.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/gzread.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
 CMakeFiles/cinder.dir/src/zlib/gzwrite.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/gzguts.h
- /Users/edselmalasig/dev/Cinder/src/zlib/gzwrite.c
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/gzguts.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/gzwrite.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
 CMakeFiles/cinder.dir/src/zlib/infback.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/infback.c
- /Users/edselmalasig/dev/Cinder/src/zlib/inffast.h
- /Users/edselmalasig/dev/Cinder/src/zlib/inffixed.h
- /Users/edselmalasig/dev/Cinder/src/zlib/inflate.h
- /Users/edselmalasig/dev/Cinder/src/zlib/inftrees.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/infback.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inffast.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inffixed.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inflate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inftrees.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zutil.h
 CMakeFiles/cinder.dir/src/zlib/inffast.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/inffast.c
- /Users/edselmalasig/dev/Cinder/src/zlib/inffast.h
- /Users/edselmalasig/dev/Cinder/src/zlib/inflate.h
- /Users/edselmalasig/dev/Cinder/src/zlib/inftrees.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inffast.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inffast.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inflate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inftrees.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zutil.h
 CMakeFiles/cinder.dir/src/zlib/inflate.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/inffast.h
- /Users/edselmalasig/dev/Cinder/src/zlib/inffixed.h
- /Users/edselmalasig/dev/Cinder/src/zlib/inflate.c
- /Users/edselmalasig/dev/Cinder/src/zlib/inflate.h
- /Users/edselmalasig/dev/Cinder/src/zlib/inftrees.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inffast.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inffixed.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inflate.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inflate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inftrees.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zutil.h
 CMakeFiles/cinder.dir/src/zlib/inftrees.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/inftrees.c
- /Users/edselmalasig/dev/Cinder/src/zlib/inftrees.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inftrees.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/inftrees.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zutil.h
 CMakeFiles/cinder.dir/src/zlib/trees.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/deflate.h
- /Users/edselmalasig/dev/Cinder/src/zlib/trees.c
- /Users/edselmalasig/dev/Cinder/src/zlib/trees.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/deflate.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/trees.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/trees.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zutil.h
 CMakeFiles/cinder.dir/src/zlib/uncompr.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/uncompr.c
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/uncompr.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
 CMakeFiles/cinder.dir/src/zlib/zutil.c.o
- /Users/edselmalasig/dev/Cinder/src/zlib/gzguts.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zconf.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zlib.h
- /Users/edselmalasig/dev/Cinder/src/zlib/zutil.c
- /Users/edselmalasig/dev/Cinder/src/zlib/zutil.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/gzguts.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zlib.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zutil.c
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/zlib/zutil.h
 CMakeFiles/cinder.dir/src/AntTweakBar/LoadOGL.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -1030,9 +1030,9 @@ CMakeFiles/cinder.dir/src/AntTweakBar/LoadOGL.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/LoadOGL.cpp
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/LoadOGL.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwPrecomp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/LoadOGL.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/LoadOGL.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwPrecomp.h
 CMakeFiles/cinder.dir/src/AntTweakBar/LoadOGLCore.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -1045,9 +1045,9 @@ CMakeFiles/cinder.dir/src/AntTweakBar/LoadOGLCore.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/LoadOGLCore.cpp
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/LoadOGLCore.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwPrecomp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/LoadOGLCore.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/LoadOGLCore.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwPrecomp.h
 CMakeFiles/cinder.dir/src/AntTweakBar/TwBar.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -1061,14 +1061,14 @@ CMakeFiles/cinder.dir/src/AntTweakBar/TwBar.cpp.o
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
  ../src/AntTweakBar/AntTweakBar.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/AntPerfTimer.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwBar.cpp
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwBar.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwColors.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwFonts.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwGraph.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwMgr.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwPrecomp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/AntPerfTimer.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwBar.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwBar.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwColors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwFonts.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwGraph.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwMgr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwPrecomp.h
 CMakeFiles/cinder.dir/src/AntTweakBar/TwColors.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -1081,9 +1081,9 @@ CMakeFiles/cinder.dir/src/AntTweakBar/TwColors.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwColors.cpp
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwColors.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwPrecomp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwColors.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwColors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwPrecomp.h
 CMakeFiles/cinder.dir/src/AntTweakBar/TwFonts.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -1097,13 +1097,13 @@ CMakeFiles/cinder.dir/src/AntTweakBar/TwFonts.cpp.o
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
  ../src/AntTweakBar/AntTweakBar.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/AntPerfTimer.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwColors.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwFonts.cpp
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwFonts.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwGraph.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwMgr.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwPrecomp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/AntPerfTimer.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwColors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwFonts.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwFonts.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwGraph.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwMgr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwPrecomp.h
 CMakeFiles/cinder.dir/src/AntTweakBar/TwMgr.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -1117,21 +1117,21 @@ CMakeFiles/cinder.dir/src/AntTweakBar/TwMgr.cpp.o
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
  ../src/AntTweakBar/AntTweakBar.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/AntPerfTimer.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwBar.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwColors.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwDirect3D10.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwDirect3D11.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwDirect3D9.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwFonts.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwGraph.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwMgr.cpp
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwMgr.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwOpenGL.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwOpenGLCore.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwPrecomp.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/res/TwXCursors.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/resource.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/AntPerfTimer.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwBar.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwColors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwDirect3D10.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwDirect3D11.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwDirect3D9.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwFonts.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwGraph.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwMgr.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwMgr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwOpenGL.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwOpenGLCore.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwPrecomp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/res/TwXCursors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/resource.h
 CMakeFiles/cinder.dir/src/AntTweakBar/TwOpenGLCore.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -1145,15 +1145,15 @@ CMakeFiles/cinder.dir/src/AntTweakBar/TwOpenGLCore.cpp.o
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
  ../src/AntTweakBar/AntTweakBar.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/AntPerfTimer.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/LoadOGLCore.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwColors.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwFonts.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwGraph.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwMgr.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwOpenGLCore.cpp
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwOpenGLCore.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwPrecomp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/AntPerfTimer.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/LoadOGLCore.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwColors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwFonts.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwGraph.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwMgr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwOpenGLCore.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwOpenGLCore.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwPrecomp.h
 CMakeFiles/cinder.dir/src/AntTweakBar/TwOpenGl.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -1167,15 +1167,15 @@ CMakeFiles/cinder.dir/src/AntTweakBar/TwOpenGl.cpp.o
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
  ../src/AntTweakBar/AntTweakBar.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/AntPerfTimer.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/LoadOGL.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwColors.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwFonts.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwGraph.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwMgr.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwOpenGL.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwOpenGl.cpp
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwPrecomp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/AntPerfTimer.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/LoadOGL.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwColors.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwFonts.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwGraph.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwMgr.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwOpenGL.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwOpenGl.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwPrecomp.h
 CMakeFiles/cinder.dir/src/AntTweakBar/TwPrecomp.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -1188,8 +1188,8 @@ CMakeFiles/cinder.dir/src/AntTweakBar/TwPrecomp.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwPrecomp.cpp
- /Users/edselmalasig/dev/Cinder/src/AntTweakBar/TwPrecomp.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwPrecomp.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/AntTweakBar/TwPrecomp.h
 CMakeFiles/cinder.dir/src/cinder/Area.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Cinder.h
@@ -1430,7 +1430,7 @@ CMakeFiles/cinder.dir/src/cinder/Area.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Area.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Area.cpp
 CMakeFiles/cinder.dir/src/cinder/BSpline.cpp.o
  ../include/cinder/BSpline.h
  ../include/cinder/Cinder.h
@@ -1662,7 +1662,7 @@ CMakeFiles/cinder.dir/src/cinder/BSpline.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/BSpline.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/BSpline.cpp
 CMakeFiles/cinder.dir/src/cinder/BSplineFit.cpp.o
  ../include/cinder/BSpline.h
  ../include/cinder/BSplineFit.h
@@ -1896,11 +1896,11 @@ CMakeFiles/cinder.dir/src/cinder/BSplineFit.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/BSplineFit.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/BSplineFit.cpp
 CMakeFiles/cinder.dir/src/cinder/BandedMatrix.cpp.o
  ../include/cinder/BandedMatrix.h
  ../include/cinder/Export.h
- /Users/edselmalasig/dev/Cinder/src/cinder/BandedMatrix.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/BandedMatrix.cpp
 CMakeFiles/cinder.dir/src/cinder/Base64.cpp.o
  ../include/cinder/Base64.h
  ../include/cinder/Buffer.h
@@ -1911,7 +1911,7 @@ CMakeFiles/cinder.dir/src/cinder/Base64.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/Base64.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Base64.cpp
 CMakeFiles/cinder.dir/src/cinder/Buffer.cpp.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -1931,7 +1931,7 @@ CMakeFiles/cinder.dir/src/cinder/Buffer.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/Buffer.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Buffer.cpp
 CMakeFiles/cinder.dir/src/cinder/Camera.cpp.o
  ../include/cinder/AxisAlignedBox.h
  ../include/cinder/Camera.h
@@ -2178,7 +2178,7 @@ CMakeFiles/cinder.dir/src/cinder/Camera.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Camera.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Camera.cpp
 CMakeFiles/cinder.dir/src/cinder/CameraUi.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Camera.h
@@ -2444,7 +2444,7 @@ CMakeFiles/cinder.dir/src/cinder/CameraUi.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/CameraUi.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/CameraUi.cpp
 CMakeFiles/cinder.dir/src/cinder/Capture.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -2715,7 +2715,7 @@ CMakeFiles/cinder.dir/src/cinder/Capture.cpp.o
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
  ../include/msw/videoInput/videoInput.h
- /Users/edselmalasig/dev/Cinder/src/cinder/Capture.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Capture.cpp
 CMakeFiles/cinder.dir/src/cinder/CaptureImplAvFoundation.mm.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -2983,7 +2983,7 @@ CMakeFiles/cinder.dir/src/cinder/CaptureImplAvFoundation.mm.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/CaptureImplAvFoundation.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/CaptureImplAvFoundation.mm
 CMakeFiles/cinder.dir/src/cinder/Channel.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -3239,7 +3239,7 @@ CMakeFiles/cinder.dir/src/cinder/Channel.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Channel.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Channel.cpp
 CMakeFiles/cinder.dir/src/cinder/CinderAssert.cpp.o
  ../include/cinder/Breakpoint.h
  ../include/cinder/Cinder.h
@@ -3258,7 +3258,7 @@ CMakeFiles/cinder.dir/src/cinder/CinderAssert.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/CinderAssert.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/CinderAssert.cpp
 CMakeFiles/cinder.dir/src/cinder/CinderImGui.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -3573,7 +3573,7 @@ CMakeFiles/cinder.dir/src/cinder/CinderImGui.cpp.o
  ../include/imgui/imgui.h
  ../include/imgui/imgui_impl_opengl3.h
  ../include/imgui/imgui_stdlib.h
- /Users/edselmalasig/dev/Cinder/src/cinder/CinderImGui.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/CinderImGui.cpp
 CMakeFiles/cinder.dir/src/cinder/CinderMath.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -3801,7 +3801,7 @@ CMakeFiles/cinder.dir/src/cinder/CinderMath.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/CinderMath.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/CinderMath.cpp
 CMakeFiles/cinder.dir/src/cinder/Clipboard.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -4105,7 +4105,7 @@ CMakeFiles/cinder.dir/src/cinder/Clipboard.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Clipboard.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Clipboard.cpp
 CMakeFiles/cinder.dir/src/cinder/Color.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -4362,7 +4362,7 @@ CMakeFiles/cinder.dir/src/cinder/Color.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Color.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Color.cpp
 CMakeFiles/cinder.dir/src/cinder/DataSource.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -4624,7 +4624,7 @@ CMakeFiles/cinder.dir/src/cinder/DataSource.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/DataSource.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/DataSource.cpp
 CMakeFiles/cinder.dir/src/cinder/DataTarget.cpp.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -4647,7 +4647,7 @@ CMakeFiles/cinder.dir/src/cinder/DataTarget.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/DataTarget.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/DataTarget.cpp
 CMakeFiles/cinder.dir/src/cinder/Display.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -4904,11 +4904,11 @@ CMakeFiles/cinder.dir/src/cinder/Display.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Display.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Display.cpp
 CMakeFiles/cinder.dir/src/cinder/Exception.cpp.o
  ../include/cinder/Exception.h
  ../include/cinder/Export.h
- /Users/edselmalasig/dev/Cinder/src/cinder/Exception.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Exception.cpp
 CMakeFiles/cinder.dir/src/cinder/FileWatcher.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -5189,11 +5189,11 @@ CMakeFiles/cinder.dir/src/cinder/FileWatcher.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/FileWatcher.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/FileWatcher.cpp
 CMakeFiles/cinder.dir/src/cinder/Filesystem.cpp.o
  ../include/ghc/filesystem.hpp
  ../include/ghc/fs_impl.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Filesystem.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Filesystem.cpp
 CMakeFiles/cinder.dir/src/cinder/Font.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -5492,7 +5492,7 @@ CMakeFiles/cinder.dir/src/cinder/Font.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Font.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Font.cpp
 CMakeFiles/cinder.dir/src/cinder/Frustum.cpp.o
  ../include/cinder/AxisAlignedBox.h
  ../include/cinder/Camera.h
@@ -5739,7 +5739,7 @@ CMakeFiles/cinder.dir/src/cinder/Frustum.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Frustum.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Frustum.cpp
 CMakeFiles/cinder.dir/src/cinder/GeomIo.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/AxisAlignedBox.h
@@ -6040,7 +6040,7 @@ CMakeFiles/cinder.dir/src/cinder/GeomIo.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/GeomIo.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/GeomIo.cpp
 CMakeFiles/cinder.dir/src/cinder/ImageFileTinyExr.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -6302,7 +6302,7 @@ CMakeFiles/cinder.dir/src/cinder/ImageFileTinyExr.cpp.o
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
  ../include/tinyexr/tinyexr.h
- /Users/edselmalasig/dev/Cinder/src/cinder/ImageFileTinyExr.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ImageFileTinyExr.cpp
 CMakeFiles/cinder.dir/src/cinder/ImageIo.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -6574,7 +6574,7 @@ CMakeFiles/cinder.dir/src/cinder/ImageIo.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ImageIo.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ImageIo.cpp
 CMakeFiles/cinder.dir/src/cinder/ImageSourceFileQuartz.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -6836,7 +6836,7 @@ CMakeFiles/cinder.dir/src/cinder/ImageSourceFileQuartz.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ImageSourceFileQuartz.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ImageSourceFileQuartz.cpp
 CMakeFiles/cinder.dir/src/cinder/ImageSourceFileRadiance.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -7093,7 +7093,7 @@ CMakeFiles/cinder.dir/src/cinder/ImageSourceFileRadiance.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ImageSourceFileRadiance.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ImageSourceFileRadiance.cpp
 CMakeFiles/cinder.dir/src/cinder/ImageSourceFileStbImage.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -7351,7 +7351,7 @@ CMakeFiles/cinder.dir/src/cinder/ImageSourceFileStbImage.cpp.o
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
  ../include/stb/stb_image.h
- /Users/edselmalasig/dev/Cinder/src/cinder/ImageSourceFileStbImage.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ImageSourceFileStbImage.cpp
 CMakeFiles/cinder.dir/src/cinder/ImageTargetFileQuartz.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -7613,7 +7613,7 @@ CMakeFiles/cinder.dir/src/cinder/ImageTargetFileQuartz.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ImageTargetFileQuartz.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ImageTargetFileQuartz.cpp
 CMakeFiles/cinder.dir/src/cinder/ImageTargetFileStbImage.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -7875,7 +7875,7 @@ CMakeFiles/cinder.dir/src/cinder/ImageTargetFileStbImage.cpp.o
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
  ../include/stb/stb_image_write.h
- /Users/edselmalasig/dev/Cinder/src/cinder/ImageTargetFileStbImage.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ImageTargetFileStbImage.cpp
 CMakeFiles/cinder.dir/src/cinder/Json.cpp.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -7898,7 +7898,7 @@ CMakeFiles/cinder.dir/src/cinder/Json.cpp.o
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
  ../include/jsoncpp/json.h
- /Users/edselmalasig/dev/Cinder/src/cinder/Json.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Json.cpp
 CMakeFiles/cinder.dir/src/cinder/Log.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Breakpoint.h
@@ -8160,7 +8160,7 @@ CMakeFiles/cinder.dir/src/cinder/Log.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Log.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Log.cpp
 CMakeFiles/cinder.dir/src/cinder/Matrix.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -8401,7 +8401,7 @@ CMakeFiles/cinder.dir/src/cinder/Matrix.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Matrix.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Matrix.cpp
 CMakeFiles/cinder.dir/src/cinder/MediaTime.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -8413,7 +8413,7 @@ CMakeFiles/cinder.dir/src/cinder/MediaTime.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/MediaTime.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/MediaTime.cpp
 CMakeFiles/cinder.dir/src/cinder/ObjLoader.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/AxisAlignedBox.h
@@ -8682,7 +8682,7 @@ CMakeFiles/cinder.dir/src/cinder/ObjLoader.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ObjLoader.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ObjLoader.cpp
 CMakeFiles/cinder.dir/src/cinder/Path2d.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -8926,7 +8926,7 @@ CMakeFiles/cinder.dir/src/cinder/Path2d.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Path2d.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Path2d.cpp
 CMakeFiles/cinder.dir/src/cinder/Perlin.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -9159,7 +9159,7 @@ CMakeFiles/cinder.dir/src/cinder/Perlin.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Perlin.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Perlin.cpp
 CMakeFiles/cinder.dir/src/cinder/Plane.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -9392,7 +9392,7 @@ CMakeFiles/cinder.dir/src/cinder/Plane.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Plane.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Plane.cpp
 CMakeFiles/cinder.dir/src/cinder/PolyLine.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -9624,7 +9624,7 @@ CMakeFiles/cinder.dir/src/cinder/PolyLine.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/PolyLine.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/PolyLine.cpp
 CMakeFiles/cinder.dir/src/cinder/Rand.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -9856,7 +9856,7 @@ CMakeFiles/cinder.dir/src/cinder/Rand.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Rand.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Rand.cpp
 CMakeFiles/cinder.dir/src/cinder/Ray.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -10096,7 +10096,7 @@ CMakeFiles/cinder.dir/src/cinder/Ray.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Ray.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Ray.cpp
 CMakeFiles/cinder.dir/src/cinder/Rect.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Cinder.h
@@ -10337,7 +10337,7 @@ CMakeFiles/cinder.dir/src/cinder/Rect.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Rect.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Rect.cpp
 CMakeFiles/cinder.dir/src/cinder/Serial.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -10603,7 +10603,7 @@ CMakeFiles/cinder.dir/src/cinder/Serial.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Serial.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Serial.cpp
 CMakeFiles/cinder.dir/src/cinder/Shape2d.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -10848,14 +10848,14 @@ CMakeFiles/cinder.dir/src/cinder/Shape2d.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Shape2d.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Shape2d.cpp
 CMakeFiles/cinder.dir/src/cinder/Signals.cpp.o
  ../include/cinder/CinderAssert.h
  ../include/cinder/CurrentFunction.h
  ../include/cinder/Export.h
  ../include/cinder/Noncopyable.h
  ../include/cinder/Signals.h
- /Users/edselmalasig/dev/Cinder/src/cinder/Signals.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Signals.cpp
 CMakeFiles/cinder.dir/src/cinder/Sphere.cpp.o
  ../include/cinder/AxisAlignedBox.h
  ../include/cinder/Cinder.h
@@ -11097,7 +11097,7 @@ CMakeFiles/cinder.dir/src/cinder/Sphere.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Sphere.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Sphere.cpp
 CMakeFiles/cinder.dir/src/cinder/Stream.cpp.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -11118,7 +11118,7 @@ CMakeFiles/cinder.dir/src/cinder/Stream.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/Stream.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Stream.cpp
 CMakeFiles/cinder.dir/src/cinder/Surface.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -11378,7 +11378,7 @@ CMakeFiles/cinder.dir/src/cinder/Surface.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Surface.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Surface.cpp
 CMakeFiles/cinder.dir/src/cinder/System.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -11390,7 +11390,7 @@ CMakeFiles/cinder.dir/src/cinder/System.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/System.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/System.cpp
 CMakeFiles/cinder.dir/src/cinder/Text.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -11692,7 +11692,7 @@ CMakeFiles/cinder.dir/src/cinder/Text.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Text.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Text.cpp
 CMakeFiles/cinder.dir/src/cinder/Timeline.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -11925,7 +11925,7 @@ CMakeFiles/cinder.dir/src/cinder/Timeline.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Timeline.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Timeline.cpp
 CMakeFiles/cinder.dir/src/cinder/TimelineItem.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -12158,7 +12158,7 @@ CMakeFiles/cinder.dir/src/cinder/TimelineItem.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/TimelineItem.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/TimelineItem.cpp
 CMakeFiles/cinder.dir/src/cinder/Timer.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -12168,7 +12168,7 @@ CMakeFiles/cinder.dir/src/cinder/Timer.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/Timer.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Timer.cpp
 CMakeFiles/cinder.dir/src/cinder/TriMesh.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/AxisAlignedBox.h
@@ -12437,7 +12437,7 @@ CMakeFiles/cinder.dir/src/cinder/TriMesh.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/TriMesh.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/TriMesh.cpp
 CMakeFiles/cinder.dir/src/cinder/Triangulate.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/AxisAlignedBox.h
@@ -12705,8 +12705,8 @@ CMakeFiles/cinder.dir/src/cinder/Triangulate.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Triangulate.cpp
- /Users/edselmalasig/dev/Cinder/src/libtess2/tesselator.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Triangulate.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/libtess2/tesselator.h
 CMakeFiles/cinder.dir/src/cinder/Tween.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -12939,7 +12939,7 @@ CMakeFiles/cinder.dir/src/cinder/Tween.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Tween.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Tween.cpp
 CMakeFiles/cinder.dir/src/cinder/Unicode.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderFwd.h
@@ -12953,7 +12953,7 @@ CMakeFiles/cinder.dir/src/cinder/Unicode.cpp.o
  ../include/utf8cpp/core.h
  ../src/linebreak/linebreak.h
  ../src/linebreak/linebreakdef.h
- /Users/edselmalasig/dev/Cinder/src/cinder/Unicode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Unicode.cpp
 CMakeFiles/cinder.dir/src/cinder/Url.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -13222,7 +13222,7 @@ CMakeFiles/cinder.dir/src/cinder/Url.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Url.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Url.cpp
 CMakeFiles/cinder.dir/src/cinder/UrlImplCocoa.mm.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -13241,7 +13241,7 @@ CMakeFiles/cinder.dir/src/cinder/UrlImplCocoa.mm.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/UrlImplCocoa.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/UrlImplCocoa.mm
 CMakeFiles/cinder.dir/src/cinder/Utilities.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -13505,7 +13505,7 @@ CMakeFiles/cinder.dir/src/cinder/Utilities.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Utilities.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Utilities.cpp
 CMakeFiles/cinder.dir/src/cinder/Xml.cpp.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -13529,7 +13529,7 @@ CMakeFiles/cinder.dir/src/cinder/Xml.cpp.o
  ../include/glm/simd/platform.h
  ../include/rapidxml/rapidxml.hpp
  ../include/rapidxml/rapidxml_print.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/Xml.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/Xml.cpp
 CMakeFiles/cinder.dir/src/cinder/app/AppBase.cpp.o
  ../include/asio/asio.hpp
  ../include/asio/associated_allocator.hpp
@@ -14219,7 +14219,7 @@ CMakeFiles/cinder.dir/src/cinder/app/AppBase.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/AppBase.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/AppBase.cpp
 CMakeFiles/cinder.dir/src/cinder/app/KeyEvent.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -14235,7 +14235,7 @@ CMakeFiles/cinder.dir/src/cinder/app/KeyEvent.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/app/KeyEvent.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/KeyEvent.cpp
 CMakeFiles/cinder.dir/src/cinder/app/Platform.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -14501,7 +14501,7 @@ CMakeFiles/cinder.dir/src/cinder/app/Platform.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/Platform.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/Platform.cpp
 CMakeFiles/cinder.dir/src/cinder/app/Renderer.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -14789,7 +14789,7 @@ CMakeFiles/cinder.dir/src/cinder/app/Renderer.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/Renderer.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/Renderer.cpp
 CMakeFiles/cinder.dir/src/cinder/app/RendererGl.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -15080,7 +15080,7 @@ CMakeFiles/cinder.dir/src/cinder/app/RendererGl.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/RendererGl.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/RendererGl.cpp
 CMakeFiles/cinder.dir/src/cinder/app/Window.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -15371,7 +15371,7 @@ CMakeFiles/cinder.dir/src/cinder/app/Window.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/Window.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/Window.cpp
 CMakeFiles/cinder.dir/src/cinder/app/cocoa/AppCocoaView.mm.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -15653,7 +15653,7 @@ CMakeFiles/cinder.dir/src/cinder/app/cocoa/AppCocoaView.mm.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/cocoa/AppCocoaView.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/cocoa/AppCocoaView.mm
 CMakeFiles/cinder.dir/src/cinder/app/cocoa/AppImplMac.mm.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -15940,7 +15940,7 @@ CMakeFiles/cinder.dir/src/cinder/app/cocoa/AppImplMac.mm.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/cocoa/AppImplMac.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/cocoa/AppImplMac.mm
 CMakeFiles/cinder.dir/src/cinder/app/cocoa/AppMac.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -16226,7 +16226,7 @@ CMakeFiles/cinder.dir/src/cinder/app/cocoa/AppMac.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/cocoa/AppMac.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/cocoa/AppMac.cpp
 CMakeFiles/cinder.dir/src/cinder/app/cocoa/CinderViewMac.mm.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -16505,7 +16505,7 @@ CMakeFiles/cinder.dir/src/cinder/app/cocoa/CinderViewMac.mm.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/cocoa/CinderViewMac.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/cocoa/CinderViewMac.mm
 CMakeFiles/cinder.dir/src/cinder/app/cocoa/PlatformCocoa.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -16789,7 +16789,7 @@ CMakeFiles/cinder.dir/src/cinder/app/cocoa/PlatformCocoa.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/cocoa/PlatformCocoa.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/cocoa/PlatformCocoa.cpp
 CMakeFiles/cinder.dir/src/cinder/app/cocoa/RendererImpl2dMacQuartz.mm.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -17067,7 +17067,7 @@ CMakeFiles/cinder.dir/src/cinder/app/cocoa/RendererImpl2dMacQuartz.mm.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/cocoa/RendererImpl2dMacQuartz.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/cocoa/RendererImpl2dMacQuartz.mm
 CMakeFiles/cinder.dir/src/cinder/app/cocoa/RendererImplGlMac.mm.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -17367,7 +17367,7 @@ CMakeFiles/cinder.dir/src/cinder/app/cocoa/RendererImplGlMac.mm.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/app/cocoa/RendererImplGlMac.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/app/cocoa/RendererImplGlMac.mm
 CMakeFiles/cinder.dir/src/cinder/audio/ChannelRouterNode.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -17611,7 +17611,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/ChannelRouterNode.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/ChannelRouterNode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/ChannelRouterNode.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/Context.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -17909,7 +17909,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/Context.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/Context.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/Context.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/DelayNode.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -18153,7 +18153,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/DelayNode.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/DelayNode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/DelayNode.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/Device.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -18184,7 +18184,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/Device.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/Device.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/Device.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/FileOggVorbis.cpp.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -18219,7 +18219,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/FileOggVorbis.cpp.o
  ../include/oggvorbis/vorbis/codec.h
  ../include/oggvorbis/vorbis/vorbisenc.h
  ../include/oggvorbis/vorbis/vorbisfile.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/FileOggVorbis.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/FileOggVorbis.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/FilterNode.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -18238,7 +18238,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/FilterNode.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/FilterNode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/FilterNode.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/GenNode.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -18488,7 +18488,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/GenNode.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/GenNode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/GenNode.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/InputNode.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -18511,7 +18511,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/InputNode.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/InputNode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/InputNode.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/MonitorNode.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -18789,7 +18789,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/MonitorNode.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/MonitorNode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/MonitorNode.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/Node.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -18816,7 +18816,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/Node.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/Node.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/Node.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/NodeMath.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -19054,7 +19054,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/NodeMath.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/NodeMath.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/NodeMath.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/OutputNode.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -19297,7 +19297,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/OutputNode.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/OutputNode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/OutputNode.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/PanNode.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -19535,7 +19535,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/PanNode.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/PanNode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/PanNode.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/Param.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -19778,7 +19778,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/Param.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/Param.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/Param.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/SamplePlayerNode.cpp.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -20031,7 +20031,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/SamplePlayerNode.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/SamplePlayerNode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/SamplePlayerNode.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/SampleRecorderNode.cpp.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -20065,7 +20065,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/SampleRecorderNode.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/SampleRecorderNode.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/SampleRecorderNode.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/Source.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -20340,7 +20340,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/Source.cpp.o
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
  ../include/oggvorbis/vorbis/vorbisfile.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/Source.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/Source.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/Target.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/Buffer.h
@@ -20614,7 +20614,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/Target.cpp.o
  ../include/oggvorbis/ogg/os_types.h
  ../include/oggvorbis/vorbis/codec.h
  ../include/oggvorbis/vorbis/vorbisfile.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/Target.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/Target.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/Utilities.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -20846,7 +20846,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/Utilities.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/Utilities.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/Utilities.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/Voice.cpp.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -21103,7 +21103,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/Voice.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/Voice.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/Voice.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/WaveTable.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -21339,7 +21339,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/WaveTable.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/WaveTable.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/WaveTable.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/cocoa/CinderCoreAudio.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -21353,7 +21353,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/cocoa/CinderCoreAudio.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/cocoa/CinderCoreAudio.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/cocoa/CinderCoreAudio.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/cocoa/ContextAudioUnit.cpp.o
  ../include/cinder/Buffer.h
  ../include/cinder/Cinder.h
@@ -21394,7 +21394,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/cocoa/ContextAudioUnit.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/cocoa/ContextAudioUnit.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/cocoa/ContextAudioUnit.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/cocoa/DeviceManagerCoreAudio.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -21661,7 +21661,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/cocoa/DeviceManagerCoreAudio.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/cocoa/DeviceManagerCoreAudio.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/cocoa/DeviceManagerCoreAudio.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/cocoa/FileCoreAudio.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -21932,7 +21932,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/cocoa/FileCoreAudio.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/cocoa/FileCoreAudio.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/cocoa/FileCoreAudio.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/dsp/Biquad.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -22165,7 +22165,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/dsp/Biquad.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/dsp/Biquad.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/dsp/Biquad.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/dsp/Converter.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -22181,7 +22181,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/dsp/Converter.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/dsp/Converter.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/dsp/Converter.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/dsp/Dsp.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -22412,7 +22412,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/dsp/Dsp.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/dsp/Dsp.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/dsp/Dsp.cpp
 CMakeFiles/cinder.dir/src/cinder/audio/dsp/Fft.cpp.o
  ../include/cinder/Cinder.h
  ../include/cinder/CinderAssert.h
@@ -22648,7 +22648,7 @@ CMakeFiles/cinder.dir/src/cinder/audio/dsp/Fft.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/audio/dsp/Fft.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/audio/dsp/Fft.cpp
 CMakeFiles/cinder.dir/src/cinder/cocoa/CinderCocoa.mm.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -22911,7 +22911,7 @@ CMakeFiles/cinder.dir/src/cinder/cocoa/CinderCocoa.mm.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/cocoa/CinderCocoa.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/cocoa/CinderCocoa.mm
 CMakeFiles/cinder.dir/src/cinder/gl/Batch.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -23201,7 +23201,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Batch.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Batch.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Batch.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/BufferObj.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -23487,7 +23487,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/BufferObj.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/BufferObj.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/BufferObj.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/BufferTexture.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -23771,7 +23771,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/BufferTexture.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/BufferTexture.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/BufferTexture.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/ConstantConversions.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -24079,7 +24079,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/ConstantConversions.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/ConstantConversions.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/ConstantConversions.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Context.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -24390,7 +24390,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Context.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Context.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Context.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Environment.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -24675,7 +24675,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Environment.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Environment.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Environment.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/EnvironmentCore.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -24960,7 +24960,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/EnvironmentCore.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/EnvironmentCore.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/EnvironmentCore.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/EnvironmentEs.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -25272,7 +25272,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/EnvironmentEs.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/EnvironmentEs.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/EnvironmentEs.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Fbo.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -25561,7 +25561,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Fbo.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Fbo.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Fbo.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/GlslProg.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -25850,7 +25850,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/GlslProg.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/GlslProg.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/GlslProg.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Pbo.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -25865,7 +25865,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Pbo.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Pbo.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Pbo.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Query.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -25882,7 +25882,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Query.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Query.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Query.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Sampler.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -26167,7 +26167,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Sampler.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Sampler.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Sampler.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Shader.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -26448,7 +26448,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Shader.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Shader.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Shader.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/ShaderPreprocessor.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Buffer.h
@@ -26480,7 +26480,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/ShaderPreprocessor.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/ShaderPreprocessor.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/ShaderPreprocessor.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Sync.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -26494,7 +26494,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Sync.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Sync.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Sync.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Texture.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -26786,7 +26786,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Texture.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Texture.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Texture.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/TextureFont.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -27109,7 +27109,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/TextureFont.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/TextureFont.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/TextureFont.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/TextureFormatParsers.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -27372,7 +27372,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/TextureFormatParsers.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/TextureFormatParsers.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/TextureFormatParsers.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/TransformFeedbackObj.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -27653,7 +27653,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/TransformFeedbackObj.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/TransformFeedbackObj.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/TransformFeedbackObj.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Ubo.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -27931,7 +27931,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Ubo.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Ubo.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Ubo.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Vao.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -28213,7 +28213,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Vao.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Vao.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Vao.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/VaoImplCore.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -28496,7 +28496,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/VaoImplCore.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/VaoImplCore.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/VaoImplCore.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/VaoImplEs.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -28777,7 +28777,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/VaoImplEs.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/VaoImplEs.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/VaoImplEs.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/VaoImplSoftware.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -29056,7 +29056,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/VaoImplSoftware.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/VaoImplSoftware.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/VaoImplSoftware.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/Vbo.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Cinder.h
@@ -29071,7 +29071,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/Vbo.cpp.o
  ../include/glm/detail/setup.hpp
  ../include/glm/fwd.hpp
  ../include/glm/simd/platform.h
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/Vbo.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/Vbo.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/VboMesh.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -29358,7 +29358,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/VboMesh.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/VboMesh.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/VboMesh.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/draw.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -29654,7 +29654,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/draw.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/draw.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/draw.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/nv/Multicast.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -29931,7 +29931,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/nv/Multicast.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/nv/Multicast.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/nv/Multicast.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/scoped.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -30216,7 +30216,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/scoped.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/scoped.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/scoped.cpp
 CMakeFiles/cinder.dir/src/cinder/gl/wrapper.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -30511,7 +30511,7 @@ CMakeFiles/cinder.dir/src/cinder/gl/wrapper.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/gl/wrapper.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/gl/wrapper.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Blend.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -30761,7 +30761,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Blend.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Blend.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Blend.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Blur.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -31010,7 +31010,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Blur.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Blur.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Blur.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Checkerboard.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -31259,7 +31259,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Checkerboard.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Checkerboard.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Checkerboard.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/EdgeDetect.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -31508,7 +31508,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/EdgeDetect.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/EdgeDetect.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/EdgeDetect.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Fill.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -31757,7 +31757,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Fill.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Fill.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Fill.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Flip.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -32006,7 +32006,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Flip.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Flip.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Flip.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Grayscale.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -32255,7 +32255,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Grayscale.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Grayscale.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Grayscale.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Hdr.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -32506,7 +32506,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Hdr.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Hdr.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Hdr.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Premultiply.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -32755,7 +32755,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Premultiply.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Premultiply.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Premultiply.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Resize.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -33006,7 +33006,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Resize.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Resize.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Resize.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Threshold.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -33255,7 +33255,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Threshold.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Threshold.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Threshold.cpp
 CMakeFiles/cinder.dir/src/cinder/ip/Trim.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/ChanTraits.h
@@ -33504,7 +33504,7 @@ CMakeFiles/cinder.dir/src/cinder/ip/Trim.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/ip/Trim.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/ip/Trim.cpp
 CMakeFiles/cinder.dir/src/cinder/params/Params.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -33802,7 +33802,7 @@ CMakeFiles/cinder.dir/src/cinder/params/Params.cpp.o
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
  ../src/AntTweakBar/AntTweakBar.h
- /Users/edselmalasig/dev/Cinder/src/cinder/params/Params.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/params/Params.cpp
 CMakeFiles/cinder.dir/src/cinder/qtime/AvfUtils.mm.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -34076,7 +34076,7 @@ CMakeFiles/cinder.dir/src/cinder/qtime/AvfUtils.mm.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/qtime/AvfUtils.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/qtime/AvfUtils.mm
 CMakeFiles/cinder.dir/src/cinder/qtime/AvfWriter.mm.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -34344,7 +34344,7 @@ CMakeFiles/cinder.dir/src/cinder/qtime/AvfWriter.mm.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/qtime/AvfWriter.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/qtime/AvfWriter.mm
 CMakeFiles/cinder.dir/src/cinder/qtime/MovieWriter.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -34633,7 +34633,7 @@ CMakeFiles/cinder.dir/src/cinder/qtime/MovieWriter.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/qtime/MovieWriter.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/qtime/MovieWriter.cpp
 CMakeFiles/cinder.dir/src/cinder/qtime/QuickTimeGlImplAvf.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -34928,7 +34928,7 @@ CMakeFiles/cinder.dir/src/cinder/qtime/QuickTimeGlImplAvf.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/qtime/QuickTimeGlImplAvf.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/qtime/QuickTimeGlImplAvf.cpp
 CMakeFiles/cinder.dir/src/cinder/qtime/QuickTimeImplAvf.mm.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -35213,7 +35213,7 @@ CMakeFiles/cinder.dir/src/cinder/qtime/QuickTimeImplAvf.mm.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/qtime/QuickTimeImplAvf.mm
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/qtime/QuickTimeImplAvf.mm
 CMakeFiles/cinder.dir/src/cinder/qtime/QuickTimeUtils.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/Area.h
@@ -35490,7 +35490,7 @@ CMakeFiles/cinder.dir/src/cinder/qtime/QuickTimeUtils.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/qtime/QuickTimeUtils.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/qtime/QuickTimeUtils.cpp
 CMakeFiles/cinder.dir/src/cinder/svg/Svg.cpp.o
  ../include/cinder/Area.h
  ../include/cinder/BSpline.h
@@ -35763,17 +35763,17 @@ CMakeFiles/cinder.dir/src/cinder/svg/Svg.cpp.o
  ../include/glm/vec3.hpp
  ../include/glm/vec4.hpp
  ../include/glm/vector_relational.hpp
- /Users/edselmalasig/dev/Cinder/src/cinder/svg/Svg.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/cinder/svg/Svg.cpp
 CMakeFiles/cinder.dir/src/imgui/imgui.cpp.o
  ../include/imgui/imconfig.h
  ../include/imgui/imgui.h
  ../include/imgui/imgui_internal.h
  ../include/imgui/imstb_textedit.h
- /Users/edselmalasig/dev/Cinder/src/imgui/imgui.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/imgui/imgui.cpp
 CMakeFiles/cinder.dir/src/imgui/imgui_demo.cpp.o
  ../include/imgui/imconfig.h
  ../include/imgui/imgui.h
- /Users/edselmalasig/dev/Cinder/src/imgui/imgui_demo.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/imgui/imgui_demo.cpp
 CMakeFiles/cinder.dir/src/imgui/imgui_draw.cpp.o
  ../include/imgui/imconfig.h
  ../include/imgui/imgui.h
@@ -35781,7 +35781,7 @@ CMakeFiles/cinder.dir/src/imgui/imgui_draw.cpp.o
  ../include/imgui/imstb_rectpack.h
  ../include/imgui/imstb_textedit.h
  ../include/imgui/imstb_truetype.h
- /Users/edselmalasig/dev/Cinder/src/imgui/imgui_draw.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/imgui/imgui_draw.cpp
 CMakeFiles/cinder.dir/src/imgui/imgui_freetype.cpp.o
  ../include/freetype/config/ftheader.h
  ../include/freetype/ft2build.h
@@ -35791,7 +35791,7 @@ CMakeFiles/cinder.dir/src/imgui/imgui_freetype.cpp.o
  ../include/imgui/imgui_internal.h
  ../include/imgui/imstb_rectpack.h
  ../include/imgui/imstb_textedit.h
- /Users/edselmalasig/dev/Cinder/src/imgui/imgui_freetype.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/imgui/imgui_freetype.cpp
 CMakeFiles/cinder.dir/src/imgui/imgui_impl_opengl3.cpp.o
  ../include/KHR/khrplatform.h
  ../include/cinder/ChanTraits.h
@@ -36034,33 +36034,33 @@ CMakeFiles/cinder.dir/src/imgui/imgui_impl_opengl3.cpp.o
  ../include/imgui/imconfig.h
  ../include/imgui/imgui.h
  ../include/imgui/imgui_impl_opengl3.h
- /Users/edselmalasig/dev/Cinder/src/imgui/imgui_impl_opengl3.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/imgui/imgui_impl_opengl3.cpp
 CMakeFiles/cinder.dir/src/imgui/imgui_stdlib.cpp.o
  ../include/imgui/imconfig.h
  ../include/imgui/imgui.h
  ../include/imgui/imgui_stdlib.h
- /Users/edselmalasig/dev/Cinder/src/imgui/imgui_stdlib.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/imgui/imgui_stdlib.cpp
 CMakeFiles/cinder.dir/src/imgui/imgui_widgets.cpp.o
  ../include/imgui/imconfig.h
  ../include/imgui/imgui.h
  ../include/imgui/imgui_internal.h
  ../include/imgui/imstb_textedit.h
- /Users/edselmalasig/dev/Cinder/src/imgui/imgui_widgets.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/imgui/imgui_widgets.cpp
 CMakeFiles/cinder.dir/src/jsoncpp/jsoncpp.cpp.o
  ../include/jsoncpp/json.h
- /Users/edselmalasig/dev/Cinder/src/jsoncpp/jsoncpp.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/jsoncpp/jsoncpp.cpp
 CMakeFiles/cinder.dir/src/r8brain/r8bbase.cpp.o
  ../include/cinder/CinderAssert.h
  ../include/cinder/CurrentFunction.h
  ../include/cinder/Export.h
- /Users/edselmalasig/dev/Cinder/src/r8brain/CDSPFIRFilter.h
- /Users/edselmalasig/dev/Cinder/src/r8brain/CDSPFracInterpolator.h
- /Users/edselmalasig/dev/Cinder/src/r8brain/CDSPRealFFT.h
- /Users/edselmalasig/dev/Cinder/src/r8brain/CDSPSincFilterGen.h
- /Users/edselmalasig/dev/Cinder/src/r8brain/fft4g.h
- /Users/edselmalasig/dev/Cinder/src/r8brain/r8bbase.cpp
- /Users/edselmalasig/dev/Cinder/src/r8brain/r8bbase.h
- /Users/edselmalasig/dev/Cinder/src/r8brain/r8bconf.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/r8brain/CDSPFIRFilter.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/r8brain/CDSPFracInterpolator.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/r8brain/CDSPRealFFT.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/r8brain/CDSPSincFilterGen.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/r8brain/fft4g.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/r8brain/r8bbase.cpp
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/r8brain/r8bbase.h
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/r8brain/r8bconf.h
 CMakeFiles/cinder.dir/src/tinyexr/tinyexr.cc.o
  ../include/tinyexr/tinyexr.h
- /Users/edselmalasig/dev/Cinder/src/tinyexr/tinyexr.cc
+ /Users/edselmalasig/dev/CinderExperiment/Cinder/src/tinyexr/tinyexr.cc

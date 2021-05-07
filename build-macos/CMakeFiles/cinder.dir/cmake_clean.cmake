@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "../lib/macosx/Debug/libcinder.dylib"
+  "../lib/macosx/Debug/libcinder.a"
   "../lib/macosx/Debug/libcinder.pdb"
   "CMakeFiles/cinder.dir/src/AntTweakBar/LoadOGL.cpp.o"
   "CMakeFiles/cinder.dir/src/AntTweakBar/LoadOGLCore.cpp.o"
