@@ -310,7 +310,7 @@ void PickingFBOApp::setupGeometry()
     //setPickingColors( mSelectVertices, mSelectEdges );
     
     //ObjLoader loader;
-    loadObj( loadResource( "teapot.obj" ));
+    loadObj( loadAsset ( "../resources/8lbs.obj" ));
     
     std::vector<vec4> objVertexPositions;
     std::vector<vec4> objVertexColors( mBatch->getNumVertices(), mDefaultVertexColor );
